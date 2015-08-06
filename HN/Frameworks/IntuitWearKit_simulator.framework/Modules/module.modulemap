@@ -1,0 +1,6 @@
+framework module IntuitWearKit {
+  umbrella header "IntuitWearKit.h"
+
+  export *
+  module * { export * }
+}

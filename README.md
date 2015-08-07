@@ -1,5 +1,5 @@
 # ios-swift-hn-watch
-HN Watch is an iOS and WatchKit app in Swift (programming language) demonstrating the integration of the Intuit Wear SDK, PNG, and ItDuzzIt. HN Watch showcases content found on Hacker News: https://news.ycombinator.com/
+HN Watch is an iOS and WatchKit app in Swift (programming language) demonstrating the integration of the Intuit Wear SDK, PNG, and ItDuzzIt. HN Watch showcases content found on [Hacker News](https://news.ycombinator.com).
 
 Features:
 + Built in Swift
